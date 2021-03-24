@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ButtonApp</string>
+    <string name="button">김윤경의 Button</string>
+
 </resources>

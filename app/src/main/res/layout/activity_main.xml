@@ -22,7 +22,7 @@
         android:layout_marginTop="216dp"
         android:layout_marginEnd="108dp"
         android:layout_marginRight="108dp"
-        android:text="201921042 김윤경"
+        android:text="@string/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
